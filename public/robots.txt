@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://minsunnyya.github.io/gjcare/sitemap.xml
